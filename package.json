@@ -1,6 +1,6 @@
 {
-"name": "GataBot-MD",
-"version": "1.4.5",
+"name": "ℂ𝔸ℝℂ3𝕃𝕋",
+"version": "1.0",
 "description": "Super Bot WhatsApp",
 "main": "index.js",
 "type": "module",
@@ -15,9 +15,9 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/GataNina-Li",
+"homepage": "https://github.com/carc3lt1",
 "author": {
-"name": "GataNina-Li" },
+"name": "CARC3LT" },
     
 "repository": {
 "type": "git",
