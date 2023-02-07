@@ -7,31 +7,25 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], 
-  ['51993485767', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51980771033', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['51944156574', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
-  ['50368274385', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 5 💖🐈', true],
-  ['50761803843', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 6 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['56964787183', '𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧 | 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 💖🐈', true], 
-  //['5492266466080'],
-  ['5492266613038'], ['51914230910'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-  ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383'], ['595986674310']]
+  ['50240286885', 'ℂ𝔸ℝℂ3𝕃𝕋 💖🐈', true], 
+  ['50240286885', 'ℂ𝔸ℝℂ3𝕃𝕋-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
+  ['50241159295', '𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧 | ℂ𝔸ℝℂ3𝕃𝕋 💖🐈', true], 
+  //['50241159295'],
+  ['50240286885']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = [] 
-global.prems = ['528451003894'], 
+global.mods = ['50241159295'] 
+global.prems = ['50240286885'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga ℂ𝔸ℝℂ3𝕃𝕋
+//Add the language you want ℂ𝔸ℝℂ3𝕃𝕋 to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de ℂ𝔸ℝℂ3𝕃𝕋, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -97,44 +91,28 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'ℂ𝔸ℝℂ3𝕃𝕋 🐜'
+global.author = 'ℂ𝔸ℝℂ3𝕃𝕋'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = '1.4.5'
-global.vsJB = '2.0'
+global.vs = '1.0'
+global.vsJB = '1.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = 'ℂ𝔸ℝℂ3𝕃𝕋'
+global.yt = 'https://youtube.com/carc3lt'
+global.yt2 = 'https://www.youtube.com/'
+global.ig = 'https://www.instagram.com/carc3lt1'
+global.md = 'https://github.com/carc3lt1/-3-bot'
+global.fb = 'https://www.facebook.com/carc3lt'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'DVhu9S9Zr7cBFFl26N61U3'
+global.nna = 'https://chat.whatsapp.com/Fc9OGTv8FqfB2qdvHz6w1D' //UPDATE ℂ𝔸ℝℂ3𝕃𝕋
+global.nna2 = 'Fc9OGTv8FqfB2qdvHz6w1D'
 
-global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
+global.paypal = 'https://paypal.me/CARC3LTGT'
 
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-
-global.nnntt = 'https://chat.whatsapp.com/IfQOvlx41su7bPUnfTg7ZB' //Grupo 4
-
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-
-global.nnnttt4 = 'https://chat.whatsapp.com/ImKvcl3Pstb8IMZk02v692' //Grupo 8 COL
-
-global.paypal = 'https://paypal.me/OficialGD'
-
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/50240286885' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,13 +146,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'ℂ𝔸ℝℂ3𝕃𝕋 : ℂ𝔸ℝℂ3𝕃𝕋'
+global.igfg = 'ℂ𝔸ℝℂ3𝕃𝕋'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '50240286885'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
